@@ -45,6 +45,9 @@ p {
   height: 1.5rem;
   margin-right: 5px;
 }
+.quevedo {
+  margin: 8px;
+}
 main ul {
   display: grid;
   padding: 0;
